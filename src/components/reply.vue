@@ -1,5 +1,5 @@
 <template>
     <div>
-        reply vue add component
+        test test test
     </div>
 </template>
