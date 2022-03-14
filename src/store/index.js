@@ -94,7 +94,7 @@ export default new Vuex.Store({
     getAll(context){
       axios.all([
         axios.get('/api/students'),
-        axios.get('/api/subject')
+        axios.get('/api/subjects')
         ,axios.get('/api/professors')
         //,axios.get('/api/board')
       ])
