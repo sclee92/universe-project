@@ -10,7 +10,7 @@
         style="display: inline-block"
         placeholder="ID"
       />
-      <button id="id_check" @click="idCheck">중복확인123123</button>
+      <button id="id_check" @click="idCheck">중복확인12312355566</button>
       <input type="password" v-model="newPw" placeholder="비밀번호" />
       <button class="colorbtn" @click="join">가입하기</button>
     </div>
