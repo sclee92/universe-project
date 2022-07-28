@@ -16,6 +16,9 @@
                 <button class="colorbtn" @click="deleteSub">선택 삭제</button>
             </div>
         </div>
+        <div style="background-color:black; width:100px; height:100px">
+            box
+        </div>
         <subjectnew/>
     </div>
 </template>
